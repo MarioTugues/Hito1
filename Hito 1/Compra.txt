@@ -1,0 +1,2 @@
+Mario,Pantalon,1,20.0
+Mario,Pantalon,2,40.0
